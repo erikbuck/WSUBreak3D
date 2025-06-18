@@ -8,5 +8,6 @@ An Xcode12 project for iOS that implements a simple "Break Out" game in 3D in Sc
 - GestureRecognizer
 - UIKit
 - DispatchQueue for updates on the main thread
+- Swift5
 
 ![Screen Shot](./SimulatorScreenShot.png)
